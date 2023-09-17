@@ -1,15 +1,15 @@
 <h3>Hi there 👊</h3>
-----------------------------
+<hr>
 <h1>About me</h1>
 <p>14 yo / 🇯🇵</p>
 <p>❤ Sushi and Sashimi</p>
 &nbsp;
-----------------------------
+<hr>
 <h1>Skills</h1>
 <p>PHP (A beginner)</p>
 <p>HTML (A beginner)</p>
 <p>Scratch (Intermediate)</p>
-----------------------------
+<hr>
 <h1>Languages</h1>
 <p>Japanese (Native)<br>
 ↳ (I can speak Kansai dialect & normal Japanese)</p>
