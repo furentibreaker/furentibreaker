@@ -1,5 +1,5 @@
 <h3>Hi there 👊</h3>
-<hr>
+&nbsp;
 <h1>About me</h1>
 <p>14 yo / 🇯🇵</p>
 <p>❤ Sushi and Sashimi</p>
